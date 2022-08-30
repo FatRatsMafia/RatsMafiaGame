@@ -1,4 +1,4 @@
-#How to get&run it?
+# How to get&run it?
 *Download zip 
 
 *Extract zip archive
